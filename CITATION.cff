@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the associated paper and this repository release."
+title: "Auxiliary-Airframe Aerodynamic Data for the Hybrid MTR–XV-15 Trim Model"
+type: dataset
+authors:
+  - family-names: Zhang
+    given-names: Shuai
+version: "1.0"
+date-released: "2026-07-20"
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/MTR-XV15-maneuver-flutter-data/releases/tag/v1.0"
+url: "https://github.com/YOUR_GITHUB_USERNAME/MTR-XV15-maneuver-flutter-data/releases/tag/v1.0"
+keywords:
+  - tiltrotor
+  - whirl flutter
+  - MTR
+  - XV-15
+  - maneuver trim
+  - aeroelasticity

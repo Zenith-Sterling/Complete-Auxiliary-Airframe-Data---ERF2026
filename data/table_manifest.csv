@@ -1,0 +1,14 @@
+﻿table,description,file,rows,columns
+Table S1.1,Angle-of-attack-dependent dimensional fuselage ordinates,data/S1_01_fuselage_alpha_ordinates.csv,11,4
+Table S1.2,"Sideslip-dependent fuselage force, roll-moment, and yaw-moment ordinates",data/S1_02_fuselage_sideslip_force_moments.csv,3,6
+Table S1.3,Sideslip-dependent fuselage pitching-moment ordinate,data/S1_03_fuselage_sideslip_pitch_moment.csv,7,2
+Table S1.4,"Low-Mach, zero-flap baseline wing lookup",data/S1_04_wing_baseline_low_mach.csv,2,15
+Table S1.5,"\(M=0.4\), zero-flap baseline wing lookup",data/S1_05_wing_baseline_mach_0p4.csv,2,16
+Table S1.6,Wing-to-horizontal-tail downwash,data/S1_06_horizontal_tail_downwash.csv,1,11
+Table S1.7,Low-Mach elevator lift increment,data/S1_07_elevator_lift_increment_low_mach.csv,1,8
+Table S1.8,Elevator/rudder Mach corrections and high-Mach horizontal-tail lift slope,data/S1_08_control_mach_corrections.csv,1,7
+Table S1.9,Horizontal-tail drag lookup,data/S1_09_horizontal_tail_drag.csv,1,5
+Table S1.10,Low-Mach rudder side-force increment,data/S1_10_rudder_side_force_increment.csv,1,6
+Table S1.11,Rotor-sidewash multiplier \(K_{\beta R}\),data/S1_11_rotor_sidewash_multiplier.csv,8,8
+Table S1.12,Fuselage-sidewash multiplier \(K_\sigma=1-\partial\sigma/\partial\beta_F\),data/S1_12_fuselage_sidewash_multiplier.csv,6,7
+Table S1.13,Vertical-tail drag lookup,data/S1_13_vertical_tail_drag.csv,2,6
