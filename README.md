@@ -5,15 +5,6 @@ definitions used in the paper:
 
 > **Whirl-Flutter Analysis of a Flexible Tiltrotor Model under Prescribed Steady Maneuvers**
 
-## Fixed paper-linked version
-
-The manuscript should cite the GitHub Release rather than the moving `main` branch:
-
-**https://github.com/YOUR_GITHUB_USERNAME/MTR-XV15-maneuver-flutter-data/releases/tag/v1.0**
-
-Before creating the repository, replace `YOUR_GITHUB_USERNAME` everywhere in this
-folder with the actual GitHub username.
-
 ## Repository structure
 
 ```text
@@ -41,16 +32,6 @@ The data document the XV-15/GTRS auxiliary model used to close the six aircraft-
 trim equations. Baseline rotor and wing loads are supplied by the flexible MTR C81
 models. The auxiliary fuselage, tail, control-surface, and drag loads are not applied
 in the nonlinear flexible time-domain calculation.
-
-## Recommended release procedure
-
-1. Create a public GitHub repository named `MTR-XV15-maneuver-flutter-data`.
-2. Upload the contents of this folder to the repository root.
-3. Replace `YOUR_GITHUB_USERNAME` in all files.
-4. Review `LICENSE_NOTICE.md` and select the final reuse terms.
-5. Commit the files.
-6. Create a GitHub Release with tag `v1.0`.
-7. Confirm that the Release URL matches the URL used in the manuscript.
 
 ## Data format
 
